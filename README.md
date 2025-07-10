@@ -1,5 +1,5 @@
 # DontBreakThisGame
-2D action game created with Unity for Brackeys Game Jam 2025
+2D action game created with Unity for Brackeys Game Jam 2025 in one week
 
 ## Description
 This is a decision-based game where your choices about items can break the game.
